@@ -8,7 +8,7 @@ This repository contains a collection of Terraform scripts deployed with Terragr
 * `cloudwatch`: Contains Terraform scripts for Amazon CloudWatch.
 * `s3`: Contains Terraform scripts to set up an Amazon Simple Storage Service (S3) bucket for backups.
 * `sns`: Contains Terraform scripts to create an Amazon Simple Notification Service (SNS).
-* `lambda`: Contains Terraform scripts to create an Amazon Lambda for the S3 buckets used for backups.
+* `lambda`: Contains Terraform scripts to create an Amazon Lambda function to monitor the S3 bucket used for backups.
 
 ## Usage
 
